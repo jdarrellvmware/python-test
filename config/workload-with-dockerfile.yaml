@@ -16,4 +16,4 @@ spec:
     git:
       url: https://github.com/drawsmcgraw/python-test.git
       ref:
-        branch: dockerfile
+        branch: main
